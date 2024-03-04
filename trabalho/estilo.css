@@ -1,0 +1,107 @@
+video {
+
+    margin-left: 500px;
+
+}
+
+.foto1 {
+    margin-top: 100px;
+    margin-left: 550px;
+}
+
+.foto2 {
+    text-align: center;
+    margin-left: 650px;
+}
+
+.foto3 {
+    text-align: center;
+    margin-left: 250px;
+}
+
+.foto4 {
+    text-align: center;
+    margin-left: 550px;
+}
+
+h3 {
+    text-align: center;
+   
+}
+.nome{
+    color: rgb(0, 0, 0);
+    background-color: aliceblue;
+    
+}
+
+
+p {
+    text-align: center;
+    color: beige;
+}
+
+img {
+    max-width: 300px;
+    margin-left: 150px;
+}
+
+.fundo {
+    background-image: url(1595dc2f5bd3654d3d263b4fce60780b118bb31ee3af7a9dc9c99f89ba415934._SX1080_FMjpg_.jpg);
+}
+
+.fundo2 {
+    background-image: url(36bdc5ea4443cd8e42f22ec7d3884cbb.jpg);
+
+}
+
+.fundo3 {
+    background-image: url(Toei_Animation_logo.png) 
+
+
+}
+.texto{
+    margin-top: 80px;
+    text-align: center;
+    color: rgb(70, 184, 4);
+}
+.texto2{
+    background-color: black;
+    padding: 10px;
+    margin-top: 10px;
+ margin-top: -20px;
+    
+}
+.texto3{
+    background-color: black;
+    padding: 10px;
+    margin-top:90px;
+   
+}
+u{
+    display: flex;
+    text-align: center;
+   
+}
+.di{
+text-align: end
+;
+   margin-left: -100;
+   margin-top: -65px;
+   font-size: xx-large;
+}
+div{
+   
+    text-align: justify;
+
+}
+.di2{
+    font-size: xx-large;
+    margin-top: -95px;
+}
+h1{
+   background-color: rgb(114, 4, 4);
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-bottom: 40px;
+  padding-right: 40px;
+}
